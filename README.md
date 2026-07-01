@@ -1,5 +1,1 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=24197693)
-# arrayListsAndStudentGradesData
-
-This is your README.md file where you can write your reflection response for this programming project.
-
+The easiest part of this lab for me was printing the summary table of the grades. Once the Course objects were stored in the Array List, accessing each course's data and formatting it into a table felt straightforward. Using loops print each course and calling methods like getTotalGrades() and getAPercent() made the output section simple and neat. It was very satisfying because all the work I did earlier like parsing the csv, came together cleanly in this step. 

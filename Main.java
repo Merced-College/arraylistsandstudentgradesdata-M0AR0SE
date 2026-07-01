@@ -14,7 +14,7 @@ public class Main {
         ArrayList<Course> courses = new ArrayList<>();
 
         try {
-            BufferedReader br = new BufferedReader(new FileReader("grades.csv"));
+            BufferedReader br = new BufferedReader(new FileReader("courseAndGradesData.csv"));
 
             // Skip first TWO lines
             br.readLine(); // header line
